@@ -14,14 +14,8 @@ import org.testng.annotations.Test;
 import org.utilities.BaseUtility;
 import org.utilities.ConfigReader;
 
-public class SearchProductTestCase {
+public class SearchProductTestCase extends BaseClass {
 
-
-	private WebDriver driver;
-
-	private BaseUtility bu = new BaseUtility();
-
-	private Properties prop;
 
 
 	@BeforeSuite
@@ -64,6 +58,8 @@ public class SearchProductTestCase {
 
 
 	}
+	
+	//latest code
 
 
 }

@@ -13,13 +13,7 @@ import org.testng.asserts.SoftAssert;
 import org.utilities.BaseUtility;
 import org.utilities.ConfigReader;
 
-public class OpenCartLoginTC {
-
-	private WebDriver driver;
-
-	private BaseUtility bu = new BaseUtility();
-
-	private Properties prop;
+public class OpenCartLoginTC extends BaseClass {
 
 
 	@BeforeSuite
