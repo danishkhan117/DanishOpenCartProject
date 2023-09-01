@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-01T18:42:43 IST" name="Default suite" finished-at="2023-09-01T18:43:18 IST" duration-ms="34763">
+    <groups>
+    </groups>
+    <test started-at="2023-09-01T18:42:43 IST" name="Default test" finished-at="2023-09-01T18:43:18 IST" duration-ms="34763">
+      <class name="org.testcases.OpenCartLoginTC">
+        <test-method is-config="true" signature="init_Prop()[pri:0, instance:org.testcases.OpenCartLoginTC@548d708a]" started-at="2023-09-01T18:42:32 IST" name="init_Prop" finished-at="2023-09-01T18:42:32 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init_Prop -->
+        <test-method is-config="true" signature="initBrowser()[pri:0, instance:org.testcases.OpenCartLoginTC@548d708a]" started-at="2023-09-01T18:42:43 IST" name="initBrowser" finished-at="2023-09-01T18:42:53 IST" duration-ms="10065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method signature="verifyLoginPageFields()[pri:0, instance:org.testcases.OpenCartLoginTC@548d708a]" started-at="2023-09-01T18:42:53 IST" name="verifyLoginPageFields" finished-at="2023-09-01T18:42:54 IST" duration-ms="860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageFields -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.testcases.OpenCartLoginTC@548d708a]" started-at="2023-09-01T18:42:54 IST" name="closeBrowser" finished-at="2023-09-01T18:42:55 IST" duration-ms="568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="initBrowser()[pri:0, instance:org.testcases.OpenCartLoginTC@548d708a]" started-at="2023-09-01T18:42:55 IST" name="initBrowser" finished-at="2023-09-01T18:43:08 IST" duration-ms="12720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method signature="loginTestCase()[pri:1, instance:org.testcases.OpenCartLoginTC@548d708a]" started-at="2023-09-01T18:43:08 IST" name="loginTestCase" finished-at="2023-09-01T18:43:09 IST" duration-ms="1423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestCase -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.testcases.OpenCartLoginTC@548d708a]" started-at="2023-09-01T18:43:09 IST" name="closeBrowser" finished-at="2023-09-01T18:43:15 IST" duration-ms="5561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.testcases.OpenCartLoginTC@548d708a]" started-at="2023-09-01T18:43:18 IST" name="tearDown" finished-at="2023-09-01T18:43:19 IST" duration-ms="536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.testcases.OpenCartLoginTC -->
+      <class name="org.testcases.SearchProductTestCase">
+        <test-method is-config="true" signature="init_Prop()[pri:0, instance:org.testcases.SearchProductTestCase@350aac89]" started-at="2023-09-01T18:42:32 IST" name="init_Prop" finished-at="2023-09-01T18:42:43 IST" duration-ms="11717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init_Prop -->
+        <test-method signature="searchProductTc()[pri:2, instance:org.testcases.SearchProductTestCase@350aac89]" started-at="2023-09-01T18:43:15 IST" name="searchProductTc" finished-at="2023-09-01T18:43:16 IST" duration-ms="1034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductTc -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:org.testcases.SearchProductTestCase@350aac89]" started-at="2023-09-01T18:43:16 IST" name="closeBrowser" finished-at="2023-09-01T18:43:18 IST" duration-ms="2383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.testcases.SearchProductTestCase@350aac89]" started-at="2023-09-01T18:43:19 IST" name="tearDown" finished-at="2023-09-01T18:43:19 IST" duration-ms="527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.testcases.SearchProductTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
